@@ -14,17 +14,11 @@
     "url": "https://raw.githubusercontent.com/Alexismda/geovalor-pub/main/verrerie.bin"
   },
   {
-    "nom": "Campagne Burger K",
-    "lat": 43.639224,
-    "lon": 7.137727,
-    "rayon": 500,
-    "url": "https://raw.githubusercontent.com/Alexismda/geovalor-pub/main/burgerk.bin"
-  },
-  {
     "nom": "Campagne Mobile Nationale",
     "lat": 43.644576,
     "lon": 7.007615,
     "rayon": 1000000,
     "url": "https://raw.githubusercontent.com/Alexismda/geovalor-pub/main/mob.bin"
   }
+
 ]
