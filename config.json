@@ -24,7 +24,7 @@
     "nom": "Campagne Mobile Nationale",
     "lat": 43.644576,
     "lon": 7.007615,
-    "rayon": 100000,
+    "rayon": 1000000,
     "url": "https://raw.githubusercontent.com/Alexismda/geovalor-pub/main/mob.bin"
   }
 ]
